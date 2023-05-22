@@ -34,7 +34,7 @@ export default function Home({ searchText }) {
     <div className="">
       <Head>
         <title>Kasm Workspaces</title>
-        <meta name="description" content="List of workspaces for Kasm Webspaces" />
+        <meta name="description" content="List of workspaces for watford.cloud" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
