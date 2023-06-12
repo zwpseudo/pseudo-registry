@@ -2,7 +2,7 @@
   "friendly_name": "Guitar Pro 8",
   "image_src": "blob:https://zwpseudo.github.io/094024af-07df-41ba-a110-31879e09af5f",
   "description": "Guitar Pro 8",
-  "name": "watford/guitarpro",
+  "name": "watford/guitarpro:latest",
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
