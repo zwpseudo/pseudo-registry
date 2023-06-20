@@ -1,0 +1,20 @@
+{
+  "friendly_name": "emulator",
+  "image_src": "blob:https://kasmregistry.linuxserver.io/115660a8-ba16-49fe-8be7-0f1533ece5b7",
+  "description": "emulator",
+  "name": "lscr.io/linuxserver/emulatorjs:latest",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Games"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64"
+  ]
+}
